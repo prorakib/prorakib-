@@ -1,9 +1,11 @@
-<h2>Assalamu Alaikum, I am Fatima khatun. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
+<h2>Assalamu Alaikum, I am 
+Rakib Hasan. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 
 
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif?raw=true" width="500" height="320"/>
 
-👨‍🎓 I am a Diploma in computer engineer & Frontend web developer-[Fatima][website] 💕     
+👨‍🎓 I am a Diploma in computer engineer & Frontend web developer-[
+Rakib Hasan ][website] 💕     
 
  - 📙 I am currently Learning at Programming Hero
  - 🌱 I'm currently Learning NodeJS and MongoDB
@@ -61,11 +63,11 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatimakhatungit&show_icons=true&locale=en&layout=compact" alt="fatimakhatungit" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rakib Hasan &show_icons=true&locale=en&layout=compact" alt="Rakib Hasan " /></p> 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=fatimakhatungit&show_icons=true&locale=en" alt="fatimakhatungit" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Rakib Hasan &show_icons=true&locale=en" alt="Rakib Hasan " /></p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fatimakhatungit )
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rakib Hasan  )
 
 [website]: https://fatimakhatun.com/
 [twitter]: https://twitter.com/fatima_khanum1
